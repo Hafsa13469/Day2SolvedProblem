@@ -1,0 +1,5 @@
+C:\Day2 QuestionSet\SumSquareDifferenceApps\SumSquareDifferenceApps\bin\Debug\SumSquareDifferenceApps.exe.config
+C:\Day2 QuestionSet\SumSquareDifferenceApps\SumSquareDifferenceApps\bin\Debug\SumSquareDifferenceApps.exe
+C:\Day2 QuestionSet\SumSquareDifferenceApps\SumSquareDifferenceApps\bin\Debug\SumSquareDifferenceApps.pdb
+C:\Day2 QuestionSet\SumSquareDifferenceApps\SumSquareDifferenceApps\obj\Debug\SumSquareDifferenceApps.exe
+C:\Day2 QuestionSet\SumSquareDifferenceApps\SumSquareDifferenceApps\obj\Debug\SumSquareDifferenceApps.pdb

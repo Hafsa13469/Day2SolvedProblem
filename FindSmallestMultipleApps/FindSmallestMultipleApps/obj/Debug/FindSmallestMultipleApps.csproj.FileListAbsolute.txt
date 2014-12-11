@@ -1,0 +1,5 @@
+C:\Day2 QuestionSet\FindSmallestMultipleApps\FindSmallestMultipleApps\bin\Debug\FindSmallestMultipleApps.exe.config
+C:\Day2 QuestionSet\FindSmallestMultipleApps\FindSmallestMultipleApps\bin\Debug\FindSmallestMultipleApps.exe
+C:\Day2 QuestionSet\FindSmallestMultipleApps\FindSmallestMultipleApps\bin\Debug\FindSmallestMultipleApps.pdb
+C:\Day2 QuestionSet\FindSmallestMultipleApps\FindSmallestMultipleApps\obj\Debug\FindSmallestMultipleApps.exe
+C:\Day2 QuestionSet\FindSmallestMultipleApps\FindSmallestMultipleApps\obj\Debug\FindSmallestMultipleApps.pdb

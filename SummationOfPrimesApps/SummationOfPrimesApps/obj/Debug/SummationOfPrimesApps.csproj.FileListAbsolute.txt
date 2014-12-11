@@ -1,0 +1,6 @@
+C:\Day2 QuestionSet\SummationOfPrimesApps\SummationOfPrimesApps\bin\Debug\SummationOfPrimesApps.exe.config
+C:\Day2 QuestionSet\SummationOfPrimesApps\SummationOfPrimesApps\bin\Debug\SummationOfPrimesApps.exe
+C:\Day2 QuestionSet\SummationOfPrimesApps\SummationOfPrimesApps\bin\Debug\SummationOfPrimesApps.pdb
+C:\Day2 QuestionSet\SummationOfPrimesApps\SummationOfPrimesApps\obj\Debug\SummationOfPrimesApps.csprojResolveAssemblyReference.cache
+C:\Day2 QuestionSet\SummationOfPrimesApps\SummationOfPrimesApps\obj\Debug\SummationOfPrimesApps.exe
+C:\Day2 QuestionSet\SummationOfPrimesApps\SummationOfPrimesApps\obj\Debug\SummationOfPrimesApps.pdb

@@ -1,0 +1,5 @@
+C:\Day2 QuestionSet\1001stPrimeApps\1001stPrimeApps\bin\Debug\1001stPrimeApps.exe.config
+C:\Day2 QuestionSet\1001stPrimeApps\1001stPrimeApps\bin\Debug\1001stPrimeApps.exe
+C:\Day2 QuestionSet\1001stPrimeApps\1001stPrimeApps\bin\Debug\1001stPrimeApps.pdb
+C:\Day2 QuestionSet\1001stPrimeApps\1001stPrimeApps\obj\Debug\1001stPrimeApps.exe
+C:\Day2 QuestionSet\1001stPrimeApps\1001stPrimeApps\obj\Debug\1001stPrimeApps.pdb

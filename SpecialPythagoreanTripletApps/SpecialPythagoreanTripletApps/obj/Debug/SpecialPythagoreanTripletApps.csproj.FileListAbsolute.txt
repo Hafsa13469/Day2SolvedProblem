@@ -1,0 +1,5 @@
+C:\Day2 QuestionSet\SpecialPythagoreanTripletApps\SpecialPythagoreanTripletApps\bin\Debug\SpecialPythagoreanTripletApps.exe.config
+C:\Day2 QuestionSet\SpecialPythagoreanTripletApps\SpecialPythagoreanTripletApps\bin\Debug\SpecialPythagoreanTripletApps.exe
+C:\Day2 QuestionSet\SpecialPythagoreanTripletApps\SpecialPythagoreanTripletApps\bin\Debug\SpecialPythagoreanTripletApps.pdb
+C:\Day2 QuestionSet\SpecialPythagoreanTripletApps\SpecialPythagoreanTripletApps\obj\Debug\SpecialPythagoreanTripletApps.exe
+C:\Day2 QuestionSet\SpecialPythagoreanTripletApps\SpecialPythagoreanTripletApps\obj\Debug\SpecialPythagoreanTripletApps.pdb

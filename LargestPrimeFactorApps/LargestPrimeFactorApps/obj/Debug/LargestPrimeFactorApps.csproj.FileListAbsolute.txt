@@ -1,0 +1,6 @@
+C:\ASP code\LargestPrimeFactorApps\LargestPrimeFactorApps\bin\Debug\LargestPrimeFactorApps.exe.config
+C:\ASP code\LargestPrimeFactorApps\LargestPrimeFactorApps\bin\Debug\LargestPrimeFactorApps.exe
+C:\ASP code\LargestPrimeFactorApps\LargestPrimeFactorApps\bin\Debug\LargestPrimeFactorApps.pdb
+C:\ASP code\LargestPrimeFactorApps\LargestPrimeFactorApps\obj\Debug\LargestPrimeFactorApps.csprojResolveAssemblyReference.cache
+C:\ASP code\LargestPrimeFactorApps\LargestPrimeFactorApps\obj\Debug\LargestPrimeFactorApps.exe
+C:\ASP code\LargestPrimeFactorApps\LargestPrimeFactorApps\obj\Debug\LargestPrimeFactorApps.pdb

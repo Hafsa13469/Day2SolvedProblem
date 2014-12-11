@@ -1,0 +1,9 @@
+C:\ASP code\SumMultiplyApps\SumMultiplyApps\bin\Debug\SumMultiplyApps.exe.config
+C:\ASP code\SumMultiplyApps\SumMultiplyApps\bin\Debug\SumMultiplyApps.exe
+C:\ASP code\SumMultiplyApps\SumMultiplyApps\bin\Debug\SumMultiplyApps.pdb
+C:\ASP code\SumMultiplyApps\SumMultiplyApps\obj\Debug\SumMultiplyApps.csprojResolveAssemblyReference.cache
+C:\ASP code\SumMultiplyApps\SumMultiplyApps\obj\Debug\SumMultiplyApps.exe
+C:\ASP code\SumMultiplyApps\SumMultiplyApps\obj\Debug\SumMultiplyApps.pdb
+C:\Day1 QustionSet\SumMultiplyApps\SumMultiplyApps\bin\Debug\SumMultiplyApps.exe.config
+C:\Day1 QustionSet\SumMultiplyApps\SumMultiplyApps\obj\Debug\SumMultiplyApps.exe
+C:\Day1 QustionSet\SumMultiplyApps\SumMultiplyApps\obj\Debug\SumMultiplyApps.pdb

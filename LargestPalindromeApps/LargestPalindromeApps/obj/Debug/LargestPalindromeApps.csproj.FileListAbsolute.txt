@@ -1,0 +1,6 @@
+C:\Day2 QuestionSet\LargestPalindromeApps\LargestPalindromeApps\bin\Debug\LargestPalindromeApps.exe.config
+C:\Day2 QuestionSet\LargestPalindromeApps\LargestPalindromeApps\bin\Debug\LargestPalindromeApps.exe
+C:\Day2 QuestionSet\LargestPalindromeApps\LargestPalindromeApps\bin\Debug\LargestPalindromeApps.pdb
+C:\Day2 QuestionSet\LargestPalindromeApps\LargestPalindromeApps\obj\Debug\LargestPalindromeApps.csprojResolveAssemblyReference.cache
+C:\Day2 QuestionSet\LargestPalindromeApps\LargestPalindromeApps\obj\Debug\LargestPalindromeApps.exe
+C:\Day2 QuestionSet\LargestPalindromeApps\LargestPalindromeApps\obj\Debug\LargestPalindromeApps.pdb
